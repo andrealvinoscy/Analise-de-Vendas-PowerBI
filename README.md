@@ -7,7 +7,7 @@ Criar um dashboard completo e intuitivo para acompanhar os principais KPIs de ve
 
 ## 📸 Visual do Dashboard
 
-![Análise de Vendas Dashboard](Imagem/dashboard-principal.png)
+![Análise de Vendas Dashboard](Imagem/pbi.png)
 
 ## 📊 Principais Visualizações
 - **KPIs Principais**: Receita Total (R$ 2 Bi) e Ticket Médio (R$ 48.820)
