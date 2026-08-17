@@ -33,6 +33,4 @@ O foco foi aprender Power BI de forma autônoma, praticar construção de dashbo
 
 ---
 
-**Desenvolvido por André Alvino**  
-Estudante de Ciência de Dados | Python | SQL | Power BI  
-[GitHub](https://github.com/andrealvinoscy) | [LinkedIn](https://linkedin.com/in/andré-alvino-81a419376)
+Desenvolvido por André Alvino
