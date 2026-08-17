@@ -26,11 +26,6 @@ Criar um dashboard completo e intuitivo para acompanhar os principais KPIs de ve
 2. Baixe o arquivo `.pbix`
 3. Abra com o **Power BI Desktop**
 4. Interaja com os filtros de Ano, Mês e Categoria
-
-## 📌 Sobre o Projeto
-Este dashboard foi desenvolvido enquanto curso Ciência de Dados (2º semestre).  
-O foco foi aprender Power BI de forma autônoma, praticar construção de dashboards e storytelling com dados.
-
 ---
 
 Desenvolvido por André Alvino
